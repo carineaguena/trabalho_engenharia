@@ -1,3 +1,7 @@
+# Author: Carine Calixto Aguena e Karina Moreira Azevedo
+# email: cca6@cin.ufpe.br e kma@cin.ufpe.br
+# date: 20-mai-2015
+
 class Class
   def attr_accessor_with_history(attr_name)
     attr_name = attr_name.to_s # make sure it's a string

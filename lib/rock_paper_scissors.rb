@@ -1,3 +1,7 @@
+# Author: Carine Calixto Aguena e Karina Moreira Azevedo
+# email: cca6@cin.ufpe.br e kma@cin.ufpe.br
+# date: 18-jun-2015
+
 class RockPaperScissors
 
   # Exceptions this class can raise:

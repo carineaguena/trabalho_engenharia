@@ -1,6 +1,6 @@
 # Author: Carine Calixto Aguena e Karina Moreira Azevedo
 # email: cca6@cin.ufpe.br e kma@cin.ufpe.br
-# date: 20-mai-2015
+# date: 18-jun-2015
 
 class Class
   def attr_accessor_with_history(attr_name)
